@@ -1,0 +1,6 @@
+TITTLE:Show table
+
+# logo:/asset/img/head shot -circle_png
+#description : text below image
+show download : true
+Theme :jekyll -theme -mimmal
